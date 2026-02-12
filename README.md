@@ -10,8 +10,6 @@ An AI-powered agent that converts natural language UI intent into working React 
 
 **Deployed URL**: [Your Vercel URL here]
 
-**Demo Video**: [Your video link here]
-
 ## ✨ Features
 
 - **Natural Language to UI**: Describe your UI in plain English, get working code instantly
@@ -35,8 +33,7 @@ An AI-powered agent that converts natural language UI intent into working React 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ryze-ai-generator.git
-cd ryze-ai-generator
+git clone https://github.com/rahull2509/Deterministic-UI-Generator.git
 
 # Install dependencies
 npm install
