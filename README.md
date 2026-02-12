@@ -8,7 +8,7 @@ An AI-powered agent that converts natural language UI intent into working React 
 
 ## 🎯 Demo
 
-**Deployed URL**: [Your Vercel URL here]
+**Deployed URL**: [Your Vercel URL here](https://deterministic-ui-generator.vercel.app/)
 
 ## ✨ Features
 
